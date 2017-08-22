@@ -7,4 +7,4 @@ Initialing learend EE, now double majoring computer science.
 
 Now developing an AI on a VR environment which teaches foregin language.
 
-Hopes to learn to design SSD solutions for data centers, at Samsung.
+Now hopes to learn to design SSD solutions for data centers, at Samsung.
